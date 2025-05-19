@@ -1,0 +1,5 @@
+.neon-bar {
+  background: linear-gradient(90deg, #00ffff, #ff00ff);
+  box-shadow: 0 0 10px #0ff, 0 0 20px #f0f, 0 0 30px #0ff;
+  transition: width 0.6s ease-out;
+}
